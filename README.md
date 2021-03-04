@@ -1,4 +1,8 @@
 # i_am_tex
+This is an example of simple cross platform mobile application. The app shows my Doberman Puppy Tex centered on the screen
+
+![App Screenshot](https://github.com/AndrewPalet/i_am_tex/blob/master/images/App-Screen.png "App Screenshot")
+![Icons Screenshot](https://github.com/AndrewPalet/i_am_tex/blob/master/images/Icons.png "Icons Screenshot")
 
 A new Flutter application.
 
